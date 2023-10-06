@@ -1,0 +1,4 @@
+what to do : 1. handle keyboard enter
+		2. handle backspace
+		3. handle zero at start
+		4. limit decimal numbers
